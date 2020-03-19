@@ -15,6 +15,6 @@ spring:
     hibernate:
       ddl-auto: none
 
-configInfo: 123456
+configInfo: 123456789
 
 
